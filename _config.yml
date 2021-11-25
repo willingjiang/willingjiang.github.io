@@ -7,7 +7,7 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Shixiao's Homepage" #"Your Name / Site Title"
+title                    : "Shixiao's Homepage    " #"Your Name / Site Title"
 title_separator          : "-"
 name                     : &name "Willing Jiang"
 description              : &description "personal description"
