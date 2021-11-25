@@ -7,9 +7,9 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Shixiao's Homepage    " #"Your Name / Site Title"
+title                    : "Shixiao Jiang's Homepage    " #"Your Name / Site Title"
 title_separator          : "-"
-name                     : &name "Willing Jiang"
+name                     : &name "Shixiao Willing Jiang"
 description              : &description "personal description"
 url                      : https://willingjiang.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
@@ -80,7 +80,7 @@ analytics:
 
 # Site Author
 author:
-  name             : "Willing Jiang"
+  name             : "Shixiao Willing Jiang"
   avatar           : "profile.png"
   bio              : "Edited@2021.11.26" #"Your biography for the left-hand sidebar"
   location         : #"Location"
