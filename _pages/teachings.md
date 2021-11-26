@@ -1,13 +1,13 @@
 ---
 layout: archive
 title: "<font color=CornflowerBlue>Teaching</font>"
-permalink: /teaching/
+permalink: /teachings/
 author_profile: true
 ---
 
 {% include base_path %}
 
-## Journal Publications
+## Courses
 
 * Partial Differential Equations I (Instructor, Fall 2021) ShanghaiTech University
   * Motivation: Many natural phenomena have been successfully formulated as partial differential equations: common applications include Physics, Chemistry, Biology, Economics and population dynamics. 
