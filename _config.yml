@@ -82,13 +82,13 @@ analytics:
 author:
   name             : "Shixiao Willing Jiang"
   avatar           : "my_profile.JPG"
-  bio              : "Edited@2021.11.26" #"Your biography for the left-hand sidebar"
+  bio              : "Last updated, 2021.11.26" #"Your biography for the left-hand sidebar"
   location         : #"Location"
   employer         :
   pubmed           : #"https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
-  googlescholar    : #"http://yourfullgooglescholarurl.com"
-  email            :
-  researchgate     : https://www.researchgate.net/profile/Shixiao-Jiang # example: "https://www.researchgate.net/profile/yourprofile"
+  googlescholar    : "https://scholar.google.com/citations?user=9gVqbiAAAAAJ"
+  email            : jiangshx@shanghaitech.edu.cn
+  researchgate     : "https://www.researchgate.net/profile/Shixiao-Jiang" 
   uri              :
   bitbucket        :
   codepen          :
