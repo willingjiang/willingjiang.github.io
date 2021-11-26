@@ -15,9 +15,10 @@ No. 393 Middle Huaxia Road
 Pudong New District  
 Shanghai 201210 China  
 
-Contact Information
-Office: South 511, School of Creativity & Arts Building
-Email: jiangshx@shanghaitech.edu.cn  
+# <font color=CornflowerBlue>Contact Information</font>
+
+- Office: South 511, School of Creativity & Arts Building
+- Email: jiangshx@shanghaitech.edu.cn  
 
 # <font color=CornflowerBlue>Research interests</font>
 
