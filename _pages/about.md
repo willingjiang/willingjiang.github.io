@@ -17,7 +17,7 @@ Shanghai 201210 China
 
 # <font color=CornflowerBlue>Contact Information</font>
 
-- Office: South 511, School of Creativity & Arts Building
+- Office: Room 511, South Building of School of Creativity & Arts 
 - Email: jiangshx@shanghaitech.edu.cn  
 
 # <font color=CornflowerBlue>Research interests</font>
