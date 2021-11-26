@@ -9,6 +9,14 @@ author_profile: true
 
 ## Journal Publications
 
+* Shixiao W. Jiang*, Gregor Kovacic, Douglas Zhou, and David Cai, 
+Modulation-resonance mechanism for surface waves in a two-layer fluid system,
+J. Fluid Mech. 875, 807-841 (2019).
+
+* Shixiao W. Jiang and John Harlim,
+Parameter estimation with data-driven nonparametric likelihood functions,
+Entropy, 21(6), 559 (2019).
+
 * Shixiao W. Jiang, Hai-Hao Lu, Douglas Zhou, and David Cai, <br>
 Stochastic linearization of turbulent dynamics of dispersive waves in equilibrium and non-equilibrium state, <br>
 [New J. Phys. 18, 083028 (2016).](https://iopscience.iop.org/article/10.1088/1367-2630/18/8/083028/meta) [pdf](https://www.researchgate.net/publication/306005870_Stochastic_linearization_of_turbulent_dynamics_of_dispersive_waves_in_equilibrium_and_non-equilibrium_state)
