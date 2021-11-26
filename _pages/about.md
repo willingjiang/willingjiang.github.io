@@ -16,13 +16,13 @@ Pudong New District
 Shanghai 201210 China  
 Email:jiangshx@shanghaitech.edu.cn  
 
-"<font color=blue>Research interests</font>"
+<font color=blue>Research interests</font>
 ======
-Manifold learning, Radial Basis function, kernel based approaches, nonlinear dispersive waves
+Manifold learning, kernel based approaches, Diffusion Maps, Radial Basis function 
 
-Nonparametric Modeling
+Nonparametric Modeling, Modeling Order Reduction, Parameter Estimation
   
-Nonlinear Dispersive Waves
+Nonlinear Dispersive Waves, Internal Waves, Fermi-Pasta-Ulam Chains
   
 Short Bio
 ======
