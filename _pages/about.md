@@ -35,5 +35,9 @@ Short Bio
   &ensp; School of Mathematical Sciences and Institute of Natural Sciences, <br> &ensp; Shanghai Jiao Tong University, China.  <br> 
   &ensp; <b>Advisors: David Cai and Douglas Zhou.</b> <br>
 - <b>B.S. in Applied Mathematics</b> (2010.06) <br> &ensp; Department of Mathematics, Shanghai Jiao Tong University, China.
+
+## Short bio
+
+# Short bio
   
 
