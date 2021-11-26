@@ -16,7 +16,7 @@ Pudong New District
 Shanghai 201210 China  
 Email:jiangshx@shanghaitech.edu.cn  
 
-# <font color=blue>Research interests</font>
+# <font color=CornflowerBlue>Research interests</font>
 
 - Manifold Learning, Kernel Based Approaches, Diffusion Maps, Radial Basis function <br>
 
@@ -24,7 +24,7 @@ Email:jiangshx@shanghaitech.edu.cn
   
 - Nonlinear Dispersive Waves, Internal Waves, Fermi-Pasta-Ulam Chains <br>
   
-# <font color=blue>Short Bio</font>
+# <font color=CornflowerBlue>Short Bio</font>
 
 - <b>Tenure-track Assistant Professor</b> (2020.09-Present) <br> &ensp; Institute of Mathematical Sciences, ShanghaiTech University.
 - <b>Assistant Research Professor</b> (2018.08-2020.08) <br> &ensp; Department of Mathematics, the Pennsylvania State University, USA. <br>
