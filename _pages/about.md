@@ -18,11 +18,11 @@ Email:jiangshx@shanghaitech.edu.cn
 
 Research interests
 ======
-- Manifold learning, kernel based approaches, Diffusion Maps, Radial Basis function 
+- Manifold learning, kernel based approaches, Diffusion Maps, Radial Basis function <br>
 
-- Nonparametric Modeling, Modeling Order Reduction, Parameter Estimation
+- Nonparametric Modeling, Modeling Order Reduction, Parameter Estimation <br>
   
-- Nonlinear Dispersive Waves, Internal Waves, Fermi-Pasta-Ulam Chains
+- Nonlinear Dispersive Waves, Internal Waves, Fermi-Pasta-Ulam Chains <br>
   
 Short Bio
 ======
