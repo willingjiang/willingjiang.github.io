@@ -26,9 +26,12 @@ Nonlinear Dispersive Waves, Internal Waves, Fermi-Pasta-Ulam Chains
   
 Short Bio
 ======
-1. a
-2. B.S. in Applied Mathematics  
-  Department of Mathematics, Shanghai Jiao Tong University, China
+- <b>Tenure-track Associate Professor</b> <br> &ensp; Institute of Natural Science and School of Mathematical Sciences, Shanghai Jiao Tong University.
+- <b>Lecturer in Mathematical Data Science</b> (2020.11-2021.06) <br> &ensp; School of Mathematical Sciences, Queen Mary University of London.
+- <b>Postdoc research associate</b> (2017.04-2020.08) <br> &ensp; Department of Applied Mathematics and Theoretical Physics, University of Cambridge.
+- <b>Ph.D. in Mathematics</b> (2016.10) <br> &ensp; GREYC, ENSICAEN and University of Caen Normandy. 
+- <b>M.S. in Mathematics</b> (2013.03) <br> &ensp; School of Mathematics & Institute of Natural Sciences, Shanghai Jiao Tong University. 
+- <b>B.S. in Electrical & Information Engineering</b> (2010.06) <br> &ensp; School of Telecommunication and Information Engineering, Nanjing University of Posts and Telecommunications.
   
 Getting started
 ======
