@@ -18,18 +18,20 @@ Email:jiangshx@shanghaitech.edu.cn
 
 Research interests
 ======
-Manifold learning, kernel based approaches, Diffusion Maps, Radial Basis function 
+- Manifold learning, kernel based approaches, Diffusion Maps, Radial Basis function 
 
-Nonparametric Modeling, Modeling Order Reduction, Parameter Estimation
+- Nonparametric Modeling, Modeling Order Reduction, Parameter Estimation
   
-Nonlinear Dispersive Waves, Internal Waves, Fermi-Pasta-Ulam Chains
+- Nonlinear Dispersive Waves, Internal Waves, Fermi-Pasta-Ulam Chains
   
 Short Bio
 ======
 - <b>Tenure-track Associate Professor</b> <br> &ensp; Institute of Natural Science and School of Mathematical Sciences, Shanghai Jiao Tong University.
 - <b>Lecturer in Mathematical Data Science</b> (2020.11-2021.06) <br> &ensp; School of Mathematical Sciences, Queen Mary University of London.
 - <b>Postdoc research associate</b> (2017.04-2020.08) <br> &ensp; Department of Applied Mathematics and Theoretical Physics, University of Cambridge.
-- <b>Ph.D. in Applied Mathematics</b> (2017.06) <br> &ensp; School of Mathematical Sciences and Institute of Natural Sciences, Shanghai Jiao Tong University, China. &ensp; Advisors: David Cai and Douglas Zhou.
+- <b>Ph.D. in Applied Mathematics</b> (2017.06) <br> &ensp; School of Mathematical Sciences and Institute of Natural Sciences,  
+  &ensp; Shanghai Jiao Tong University, China.   
+  &ensp; <b>Advisors: David Cai and Douglas Zhou.</b> <br>
 - <b>B.S. in Applied Mathematics</b> (2010.06) <br> &ensp; Department of Mathematics, Shanghai Jiao Tong University, China.
   
 Getting started
