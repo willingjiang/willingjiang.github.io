@@ -32,8 +32,7 @@ Short Bio
 - <b>Postdoc research associate</b> (2017.08-2018.06) <br> &ensp; Department of Mathematics, the Pennsylvania State University, USA. <br>
   &ensp; <b>Mentor: John Harlim.</b> <br>
 - <b>Ph.D. in Applied Mathematics</b> (2017.06) <br> 
-  &ensp; School of Mathematical Sciences and Institute of Natural Sciences, <br>  
-  &ensp; Shanghai Jiao Tong University, China.  <br> 
+  &ensp; School of Mathematical Sciences and Institute of Natural Sciences, <br> &ensp; Shanghai Jiao Tong University, China.  <br> 
   &ensp; <b>Advisors: David Cai and Douglas Zhou.</b> <br>
 - <b>B.S. in Applied Mathematics</b> (2010.06) <br> &ensp; Department of Mathematics, Shanghai Jiao Tong University, China.
   
