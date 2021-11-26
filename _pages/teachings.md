@@ -16,7 +16,11 @@ author_profile: true
 * Mathematical Analysis II Practice (Instructor, Spring 2021) ShanghaiTech University
 * Mathematical Analysis I Practice (Instructor, Fall 2020) ShanghaiTech University
 * Matrices (Instructor, Spring 2020) Penn State University
+  * Catalog Description: Systems of linear equations; matrix
+algebra; eigenvalues and eigenvectors; linear systems of differential equations.
 * Multivariate Calculus (Instructor, Fall 2019) Penn State University
+  * Learning Objectives: Upon successful completion, the student will be familiar with vectors, vector operations, equations of curves and surfaces in space, calculus calculations involving curves, the calculation and
+applications of differentiation of functions of several variables.
 * Matrices (Instructor, Fall 2018 and Spring 2019) Penn State University
 * Mathematical Analysis (TA, Spring 2013 and Fall 2012) Shanghai Jiao Tong University
 * Functional Analysis (TA, Spring 2012) Shanghai Jiao Tong University
