@@ -16,7 +16,7 @@ Pudong New District
 Shanghai 201210 China  
 Email:jiangshx@shanghaitech.edu.cn  
 
-<font color=blue>"Research interests"</font>  
+Research interests
 ======
 Manifold learning, kernel based approaches, Diffusion Maps, Radial Basis function 
 
@@ -29,9 +29,8 @@ Short Bio
 - <b>Tenure-track Associate Professor</b> <br> &ensp; Institute of Natural Science and School of Mathematical Sciences, Shanghai Jiao Tong University.
 - <b>Lecturer in Mathematical Data Science</b> (2020.11-2021.06) <br> &ensp; School of Mathematical Sciences, Queen Mary University of London.
 - <b>Postdoc research associate</b> (2017.04-2020.08) <br> &ensp; Department of Applied Mathematics and Theoretical Physics, University of Cambridge.
-- <b>Ph.D. in Mathematics</b> (2016.10) <br> &ensp; GREYC, ENSICAEN and University of Caen Normandy. 
-- <b>M.S. in Mathematics</b> (2013.03) <br> &ensp; School of Mathematics & Institute of Natural Sciences, Shanghai Jiao Tong University. 
-- <b>B.S. in Electrical & Information Engineering</b> (2010.06) <br> &ensp; School of Telecommunication and Information Engineering, Nanjing University of Posts and Telecommunications.
+- <b>Ph.D. in Applied Mathematics</b> (2017.06) <br> &ensp; School of Mathematical Sciences and Institute of Natural Sciences, Shanghai Jiao Tong University, China. &ensp; Advisors: David Cai and Douglas Zhou.
+- <b>B.S. in Applied Mathematics</b> (2010.06) <br> &ensp; Department of Mathematics, Shanghai Jiao Tong University, China.
   
 Getting started
 ======
