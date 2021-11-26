@@ -16,7 +16,7 @@ Pudong New District
 Shanghai 201210 China  
 Email:jiangshx@shanghaitech.edu.cn  
 
-<font color=blue>Research interests</font>
+<font color=blue>Research interests</font>  
 ======
 Manifold learning, kernel based approaches, Diffusion Maps, Radial Basis function 
 
