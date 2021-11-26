@@ -190,6 +190,9 @@ collections:
   publication:
     output: true
     permalink: /:collection/:path/
+  teachings:
+    output: true
+    permalink: /:collection/:path/
 
 
 # Defaults
@@ -216,6 +219,15 @@ defaults:
   - scope:
       path: ""
       type: teaching
+    values:
+      layout: single
+      author_profile: true
+      share: true
+      comments: true
+  # _teachings
+  - scope:
+      path: ""
+      type: teachings
     values:
       layout: single
       author_profile: true
