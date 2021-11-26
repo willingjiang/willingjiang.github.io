@@ -1,6 +1,6 @@
 # main links links
 main:
-  - title: "Publications"
+  - title: "<font color=CornflowerBlue>Publications</font>"
     url: /publications/
 
 #   - title: "Talks"
