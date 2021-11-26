@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "<font color=blue>SHIXIAO WILLING JIANG"#<font color=gray size=72>
+title: "<font color=CornflowerBlue>SHIXIAO WILLING JIANG"#<font color=gray size=72>
 excerpt: "About me"
 author_profile: true
 redirect_from: 
