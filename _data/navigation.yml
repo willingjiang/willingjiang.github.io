@@ -9,10 +9,10 @@ main:
 #   - title: "Talks"
 #     url: /talks/    
 
-#  - title: "Teaching &emsp; &ensp;"
+#  - title: "Teaching"
 #    url: /teaching/  
   
-  - title: "Teaching"
+  - title: "Teaching &emsp; &ensp;"
     url: /teachings/  
     
 #   - title: "Portfolio"
