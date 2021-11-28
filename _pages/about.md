@@ -40,6 +40,18 @@ Shanghai 201210 China
   &ensp; <b>Advisors: David Cai and Douglas Zhou.</b> <br>
 - <b>B.S. in Applied Mathematics</b> (2010.06) <br> &ensp; Department of Mathematics, Shanghai Jiao Tong University, China.
 
-
+# <font color=CornflowerBlue>Recruitment</font>
   
+I plan to recruit graduate students and postdocs on these projects: <br>
+
+- solving linear and nonlinear PDEs on unknown manifolds using diffusion maps, radial basis functions, deep neural networks, <br>
+
+- nonparametric modeling, bayesian inference, model order reduction using diffusion maps and deep neural network, <br>
+
+- stochastic linearization of FPU chains, numerical simulation of two-layer fluid system. <br>
+
+The projects are not limited to the above ones and you are encouraged to propose your own ideas. <br>
+
+Students with the background of applied mathematics or computer science or any related subject are welcome to contact me. Ones are required to be familiar with one of the following computer skills, Matlab, Python, or C/C++. During the start of graduate studies, students are encouraged to learn courses including numerical analysis, deep neural networks, Riemannian manifold, and finite element method, etc. <br>
+
 
