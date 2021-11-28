@@ -1,6 +1,6 @@
 ---
 layout: archive
-title: "<font color=CornflowerBlue>Teaching</font>"
+title: "<font color=CornflowerBlue>Teaching experience</font>"
 permalink: /teachings/
 author_profile: true
 ---
