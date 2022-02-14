@@ -12,7 +12,7 @@ redirect_from:
 ## Education
 
 * B.S. in Applied Mathematics, Department of Mathematics, Shanghai Jiao Tong University, 2010
-* Visiting scholar of Courant Institute of Mathematical Sciences, 2014
+* Visiting scholar of Courant Institute of Mathematical Sciences, 2014 
 * Ph.D in Applied Mathematics, School of Mathematical Sciences and Institute of Natural Sciences, Shanghai Jiao Tong University, under supervision of Prof. David Cai and Prof. Douglas Zhou, 2017
 
 ## Work experience
