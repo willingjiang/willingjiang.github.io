@@ -19,11 +19,11 @@ redirect_from:
 
 * 2017-2018: Postdoc research associate
   * Department of Mathematics, the Pennsylvania State University, USA
-  * Supervisor: Prof. John Harlim
+  * Mentor: Prof. John Harlim
 
 * 2018-2020: Assistant Research Professor
   * Department of Mathematics, the Pennsylvania State University, USA
-  * Supervisor: Prof. John Harlim
+  * Mentor: Prof. John Harlim
   
 ## Talks
 
