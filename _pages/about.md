@@ -42,7 +42,7 @@ Shanghai 201210 China
 
 # <font color=CornflowerBlue>Recruitment</font>
   
-I plan to recruit graduate students and postdocs on these projects: <br>
+I plan to recruit Chinese graduate students and international postdocs on these projects: <br>
 
 - solving linear and nonlinear PDEs on unknown manifolds using diffusion maps, radial basis functions, deep neural networks, <br>
 
