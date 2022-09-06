@@ -12,6 +12,7 @@ author_profile: true
 * John Harlim, Shixiao W. Jiang, John Wilson Peoples, <br>
 Radial basis approximation of tensor fields on manifolds: From operator estimation to manifold learning, <br>
 [arxiv.](https://arxiv.org/abs/2208.08369v1) 
+[Download paper here](http://willingjiang.github.io/files/John_Jiang_Peoples_2022_RBFeigs.pdf)
 
 * Senwei Liang, Shixiao W. Jiang, John Harlim, and Haizhao Yang, <br>
 Solving PDEs On Unknown Manifolds With Machine Learning, <br>
