@@ -24,7 +24,7 @@ Shanghai 201210 China
 
 - Manifold Learning, Kernel Based Approaches, Diffusion Maps, Radial Basis function <br>
 
-![Editing a markdown file for a talk](/figures/1_0_pde.png)
+![Editing a markdown file for a talk](/figures/1_0_pde_1.png)
 
 - Nonparametric Modeling, Parameter Estimation, Modeling Order Reduction <br>
   
