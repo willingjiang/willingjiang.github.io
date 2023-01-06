@@ -17,19 +17,22 @@ Shanghai 201210 China
 
 # <font color=CornflowerBlue>Contact Information</font>
 
-- Office: Room 511, South Building of School of Creativity & Arts 
+- Office: Room 515, Southern Building of School of Creativity & Arts 
 - Email: jiangshx@shanghaitech.edu.cn  
 
 # <font color=CornflowerBlue>Research interests</font>
 
 - Manifold Learning, Kernel Based Approaches, Diffusion Maps, Radial Basis function <br>
 
-Example: editing a markdown file for a talk
 ![Editing a markdown file for a talk](/figures/1_0_pde.png)
 
 - Nonparametric Modeling, Parameter Estimation, Modeling Order Reduction <br>
   
+![Editing a markdown file for a talk](/figures/2_0_dynamics.png)
+
 - Nonlinear Dispersive Waves, Internal Waves, Fermi-Pasta-Ulam Chains <br>
+
+![Editing a markdown file for a talk](/figures/3_0_nonlinear_waves.png)
   
 # <font color=CornflowerBlue>Short Bio</font>
 
