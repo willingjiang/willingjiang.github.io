@@ -9,7 +9,7 @@
 locale                   : "en-US"
 title                    : "Shixiao JIANG's HOME" #"Your Name / Site Title"
 title_separator          : "-"
-name                     : &name "Shixiao Willing Jiang"
+name                     : &name "Shixiao Willing Jiang (蒋诗晓)"
 description              : &description "personal description"
 url                      : https://willingjiang.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
@@ -82,7 +82,7 @@ analytics:
 author:
   name             : "Shixiao Willing Jiang"
   avatar           : "my_profile.JPG"
-  bio              : "Last updated, 2022.09.06" #"Your biography for the left-hand sidebar"
+  bio              : "Last updated, 2023.01.06" #"Your biography for the left-hand sidebar"
   location         : #"Location"
   employer         :
   pubmed           : #"https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
