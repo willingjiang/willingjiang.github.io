@@ -28,7 +28,7 @@ Shanghai 201210 China
 
 - Nonparametric Modeling, Parameter Estimation, Modeling Order Reduction <br>
   
-![Editing a markdown file for a talk](/figures/2_0_dynamics.png)
+![Editing a markdown file for a talk](/figures/2_0_dynamics_2.png)
 
 - Nonlinear Dispersive Waves, Internal Waves, Fermi-Pasta-Ulam Chains <br>
 
