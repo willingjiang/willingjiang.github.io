@@ -9,7 +9,7 @@
 locale                   : "en-US"
 title                    : "Shixiao JIANG's HOME" #"Your Name / Site Title"
 title_separator          : "-"
-name                     : &name "Shixiao Willing Jiang (蒋诗晓)"
+name                     : &name "Shixiao Willing Jiang"
 description              : &description "personal description"
 url                      : https://willingjiang.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
