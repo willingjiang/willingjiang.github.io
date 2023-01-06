@@ -24,6 +24,9 @@ Shanghai 201210 China
 
 - Manifold Learning, Kernel Based Approaches, Diffusion Maps, Radial Basis function <br>
 
+Example: editing a markdown file for a talk
+![Editing a markdown file for a talk](/figures/1_0_pde.png)
+
 - Nonparametric Modeling, Parameter Estimation, Modeling Order Reduction <br>
   
 - Nonlinear Dispersive Waves, Internal Waves, Fermi-Pasta-Ulam Chains <br>
