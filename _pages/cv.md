@@ -24,9 +24,16 @@ redirect_from:
 * 2018-2020: Assistant Research Professor
   * Department of Mathematics, the Pennsylvania State University, USA
   * Mentor: Prof. John Harlim
+
+* 2020-Present: Assistant Professor
+  * Institute of Mathematical Sciences, ShanghaiTech University, China
   
 ## Talks
 
+* Machine Learning for Missing Dynamics (Aug 23, 2023), the 10th International Congress on Industrial and Applied Mathematics (ICIAM), Waseda University, Tokyo, Japan
+* Radial Basis Function-Finite Difference Method for Solving PDEs and Eigenvalue Problems on Riemannian Manifolds (Jun 27, 2023), invited talk at Zhejiang University
+* Machine Learning for Predicting Missing Dynamics (Jun 11, 2023), the 10th Foundations of Computational Mathematics, Sorbonne Université, Paris, France
+* Radial Basis Functions for Approximating Differential Operators on Closed Manifolds (Aug 18, 2022), Conference on Scientific Machine Learning in Beijing
 * Diffusion Maps for Elliptic Inverse Problems (Nov. 20, 2021), the 16th Computational Methods in Science and Engineering, University of Shanghai for Science and Technology
 * Modulation-resonance mechanism for surface waves in a two-layer fluid system (May 23, 2021), SIAM (Society for Industrial and Applied Mathematics) DS21 (Dynamical Systems) 2021, California (Virtually online)
 * Diffusion Maps Algorithm for Solving PDEs on Manifolds (Nov 06, 2020) invited seminar 2020, ShanghaiTech University
