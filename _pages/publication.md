@@ -9,6 +9,10 @@ author_profile: true
 
 ## Preprints
 
+* Shixiao W. Jiang, Rongji Li, Qile Yan, John Harlim, <br>
+Generalized Finite Difference Method on unknown manifolds, <br>
+[arxiv.](https://arxiv.org/abs/2307.07617)
+
 * John Harlim, Shixiao W. Jiang, John Wilson Peoples, <br>
 Radial basis approximation of tensor fields on manifolds: From operator estimation to manifold learning, <br>
 [arxiv.](https://arxiv.org/abs/2208.08369v1) 
@@ -18,11 +22,12 @@ Radial basis approximation of tensor fields on manifolds: From operator estimati
 Solving PDEs On Unknown Manifolds With Machine Learning, <br>
 [arxiv.](https://arxiv.org/abs/2106.06682) 
 
+## Journal Publications
+
 * Qile Yan, Shixiao W. Jiang* and John Harlim, <br>
 Kernel-based methods for Solving Time-Dependent Advection-Diffusion Equations on Manifolds, <br>
+[Journal of Scientific Computing](https://link.springer.com/article/10.1007/s10915-022-02045-w) 
 [arXiv.](https://arxiv.org/abs/2105.13835) 
-
-## Journal Publications
 
 * John Harlim, Shixiao Jiang, Hwanwoo Kim, and Daniel Sanz-Alonso, <br>
 Graph-based Prior and Forward Models for Inverse Problems on Manifolds with Boundaries, <br>
