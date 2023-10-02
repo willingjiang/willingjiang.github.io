@@ -31,11 +31,11 @@ Kernel-based methods for Solving Time-Dependent Advection-Diffusion Equations on
 
 * John Harlim, Shixiao Jiang, Hwanwoo Kim, and Daniel Sanz-Alonso, <br>
 Graph-based Prior and Forward Models for Inverse Problems on Manifolds with Boundaries, <br>
-Inverse Problems (2021). &ensp; [arxiv.](https://arxiv.org/pdf/2106.06787.pdf)
+[Inverse Problems (2021)](https://iopscience.iop.org/article/10.1088/1361-6420/ac3994). &ensp; [arxiv.](https://arxiv.org/pdf/2106.06787.pdf)
 
 * Shixiao W. Jiang and John Harlim, <br>
 Ghost Point Diffusion Maps for solving elliptic PDE's on Manifolds with Classical Boundary Conditions, <br>
-accepted by Communications on Pure and Applied Mathematics (2021). &ensp; [arXiv.](https://arxiv.org/abs/2006.04002). 
+[Communications on Pure and Applied Mathematics (2021)](https://onlinelibrary.wiley.com/doi/abs/10.1002/cpa.22035). &ensp; [arXiv.](https://arxiv.org/abs/2006.04002). 
 
 * John Harlim, Shixiao W. Jiang, Senwei Liang, and Haizhao Yang, <br>
 Machine Learning for Prediction with Missing Dynamics, <br>
