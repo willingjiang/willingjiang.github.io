@@ -24,9 +24,14 @@ Solving PDEs On Unknown Manifolds With Machine Learning, <br>
 
 ## Journal Publications
 
+* Qile Yan, Shixiao W. Jiang, John Harlim, <br> 
+Spectral methods for solving elliptic PDEs on unknown manifolds, <br> 
+[Journal of Computational Physics, 486, 112132 (2023)](https://www.sciencedirect.com/science/article/abs/pii/S0021999123002279)
+[arXiv.](https://arxiv.org/abs/2210.10527)
+
 * Qile Yan, Shixiao W. Jiang* and John Harlim, <br>
 Kernel-based methods for Solving Time-Dependent Advection-Diffusion Equations on Manifolds, <br>
-[Journal of Scientific Computing](https://link.springer.com/article/10.1007/s10915-022-02045-w) 
+[Journal of Scientific Computing (2022)](https://link.springer.com/article/10.1007/s10915-022-02045-w) 
 [arXiv.](https://arxiv.org/abs/2105.13835) 
 
 * John Harlim, Shixiao Jiang, Hwanwoo Kim, and Daniel Sanz-Alonso, <br>
