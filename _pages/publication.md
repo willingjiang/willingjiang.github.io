@@ -13,16 +13,17 @@ author_profile: true
 Generalized Finite Difference Method on unknown manifolds, <br>
 [arxiv.](https://arxiv.org/abs/2307.07617)
 
-* John Harlim, Shixiao W. Jiang, John Wilson Peoples, <br>
-Radial basis approximation of tensor fields on manifolds: From operator estimation to manifold learning, <br>
-[arxiv.](https://arxiv.org/abs/2208.08369v1) 
-[Download paper here](http://willingjiang.github.io/files/John_Jiang_Peoples_2022_RBFeigs.pdf)
-
 * Senwei Liang, Shixiao W. Jiang, John Harlim, and Haizhao Yang, <br>
 Solving PDEs On Unknown Manifolds With Machine Learning, <br>
 [arxiv.](https://arxiv.org/abs/2106.06682) 
 
 ## Journal Publications
+
+* John Harlim, Shixiao W. Jiang, John Wilson Peoples, <br>
+Radial basis approximation of tensor fields on manifolds: From operator estimation to manifold learning, <br>
+[Journal of Machine Learning Research, 24(345):1−85, 2023](https://www.jmlr.org/papers/v24/22-1193.html)
+[arxiv.](https://arxiv.org/abs/2208.08369v1) 
+[Download paper here](http://willingjiang.github.io/files/Harlim_Jiang_Peoples_2023_JMLR.pdf)
 
 * Qile Yan, Shixiao W. Jiang, John Harlim, <br> 
 Spectral methods for solving elliptic PDEs on unknown manifolds, <br> 
