@@ -11,7 +11,8 @@ author_profile: true
 
 * Shixiao W. Jiang, Rongji Li, Qile Yan, John Harlim, <br>
 Generalized Finite Difference Method on unknown manifolds, <br>
-[arxiv.](https://arxiv.org/abs/2307.07617)
+[arxiv.](https://arxiv.org/abs/2307.07617) &ensp;
+[Download codes here.](http://willingjiang.github.io/files/GFDM_three_examples_v1_publishCode.zip)
 
 * Senwei Liang, Shixiao W. Jiang, John Harlim, and Haizhao Yang, <br>
 Solving PDEs On Unknown Manifolds With Machine Learning, <br>
@@ -21,27 +22,27 @@ Solving PDEs On Unknown Manifolds With Machine Learning, <br>
 
 * John Harlim, Shixiao W. Jiang, John Wilson Peoples, <br>
 Radial basis approximation of tensor fields on manifolds: From operator estimation to manifold learning, <br>
-[Journal of Machine Learning Research, 24(345):1−85, 2023](https://www.jmlr.org/papers/v24/22-1193.html)
-[arxiv.](https://arxiv.org/abs/2208.08369v1) 
-[Download paper here](http://willingjiang.github.io/files/Harlim_Jiang_Peoples_2023_JMLR.pdf)
+[Journal of Machine Learning Research, 24(345):1−85, (2023).](https://www.jmlr.org/papers/v24/22-1193.html) &ensp;
+[arxiv.](https://arxiv.org/abs/2208.08369v1) &ensp; 
+[Download paper here.](http://willingjiang.github.io/files/Harlim_Jiang_Peoples_2023_JMLR.pdf)
 
 * Qile Yan, Shixiao W. Jiang, John Harlim, <br> 
 Spectral methods for solving elliptic PDEs on unknown manifolds, <br> 
-[Journal of Computational Physics, 486, 112132 (2023)](https://www.sciencedirect.com/science/article/abs/pii/S0021999123002279)
+[Journal of Computational Physics, 486, 112132 (2023).](https://www.sciencedirect.com/science/article/abs/pii/S0021999123002279) &ensp;
 [arXiv.](https://arxiv.org/abs/2210.10527)
 
 * Qile Yan, Shixiao W. Jiang* and John Harlim, <br>
 Kernel-based methods for Solving Time-Dependent Advection-Diffusion Equations on Manifolds, <br>
-[Journal of Scientific Computing (2022)](https://link.springer.com/article/10.1007/s10915-022-02045-w) 
+[Journal of Scientific Computing (2022).](https://link.springer.com/article/10.1007/s10915-022-02045-w) &ensp;
 [arXiv.](https://arxiv.org/abs/2105.13835) 
 
 * John Harlim, Shixiao Jiang, Hwanwoo Kim, and Daniel Sanz-Alonso, <br>
 Graph-based Prior and Forward Models for Inverse Problems on Manifolds with Boundaries, <br>
-[Inverse Problems (2021)](https://iopscience.iop.org/article/10.1088/1361-6420/ac3994). &ensp; [arxiv.](https://arxiv.org/pdf/2106.06787.pdf)
+[Inverse Problems (2021).](https://iopscience.iop.org/article/10.1088/1361-6420/ac3994) &ensp; [arxiv.](https://arxiv.org/pdf/2106.06787.pdf)
 
 * Shixiao W. Jiang and John Harlim, <br>
 Ghost Point Diffusion Maps for solving elliptic PDE's on Manifolds with Classical Boundary Conditions, <br>
-[Communications on Pure and Applied Mathematics (2021)](https://onlinelibrary.wiley.com/doi/abs/10.1002/cpa.22035). &ensp; [arXiv.](https://arxiv.org/abs/2006.04002). 
+[Communications on Pure and Applied Mathematics (2021).](https://onlinelibrary.wiley.com/doi/abs/10.1002/cpa.22035) &ensp; [arXiv.](https://arxiv.org/abs/2006.04002). 
 
 * John Harlim, Shixiao W. Jiang, Senwei Liang, and Haizhao Yang, <br>
 Machine Learning for Prediction with Missing Dynamics, <br>
@@ -71,4 +72,3 @@ Stochastic linearization of turbulent dynamics of dispersive waves in equilibriu
 Renormalized dispersion relations of β-Fermi-Pasta-Ulam chains in equilibrium and nonequilibrium states, <br>
 [Phys. Rev. E 90, 032925 (2014).](http://dx.doi.org/10.1103/PhysRevE.90.032925) &ensp; [pdf.](https://www.researchgate.net/publication/266676392_Renormalized_dispersion_relations_of_b-Fermi-Pasta-Ulam_chains_in_equilibrium_and_nonequilibrium_states)
 
-![Visitor Count](https://profile-counter.glitch.me/willingjiang/count.svg)
