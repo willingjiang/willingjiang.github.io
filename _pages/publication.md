@@ -70,3 +70,5 @@ Stochastic linearization of turbulent dynamics of dispersive waves in equilibriu
 * Shixiao W. Jiang, Hai-Hao Lu, Douglas Zhou, and David Cai, <br>
 Renormalized dispersion relations of β-Fermi-Pasta-Ulam chains in equilibrium and nonequilibrium states, <br>
 [Phys. Rev. E 90, 032925 (2014).](http://dx.doi.org/10.1103/PhysRevE.90.032925) &ensp; [pdf.](https://www.researchgate.net/publication/266676392_Renormalized_dispersion_relations_of_b-Fermi-Pasta-Ulam_chains_in_equilibrium_and_nonequilibrium_states)
+
+![Visitor Count](https://profile-counter.glitch.me/willingjiang/count.svg)
