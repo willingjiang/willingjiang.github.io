@@ -9,16 +9,17 @@ author_profile: true
 
 ## Preprints
 
-* Shixiao W. Jiang, Rongji Li, Qile Yan, John Harlim, <br>
-Generalized Finite Difference Method on unknown manifolds, <br>
-[arxiv.](https://arxiv.org/abs/2307.07617) &ensp;
-[Download codes here.](https://github.com/willingjiang/willingjiang.github.io/blob/25283de9192c8cb3010ec362fb4ab8fb85ac7847/files/GFDM_three_examples_v1_publishCode.zip)
-
 * Senwei Liang, Shixiao W. Jiang, John Harlim, and Haizhao Yang, <br>
 Solving PDEs On Unknown Manifolds With Machine Learning, <br>
 [arxiv.](https://arxiv.org/abs/2106.06682) 
 
 ## Journal Publications
+
+* Shixiao W. Jiang, Rongji Li, Qile Yan, John Harlim, <br>
+Generalized Finite Difference Method on unknown manifolds, <br>
+[Journal of Computational Physics (2024).](https://www.sciencedirect.com/science/article/abs/pii/S0021999124000615) &ensp;
+[arxiv.](https://arxiv.org/abs/2307.07617) &ensp;
+[Download codes here.](https://github.com/willingjiang/willingjiang.github.io/blob/25283de9192c8cb3010ec362fb4ab8fb85ac7847/files/GFDM_three_examples_v1_publishCode.zip)
 
 * John Harlim, Shixiao W. Jiang, John Wilson Peoples, <br>
 Radial basis approximation of tensor fields on manifolds: From operator estimation to manifold learning, <br>
