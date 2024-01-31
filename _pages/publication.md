@@ -12,7 +12,7 @@ author_profile: true
 * Shixiao W. Jiang, Rongji Li, Qile Yan, John Harlim, <br>
 Generalized Finite Difference Method on unknown manifolds, <br>
 [arxiv.](https://arxiv.org/abs/2307.07617) &ensp;
-[Download codes here.](http://willingjiang.github.io/files/GFDM_three_examples_v1_publishCode.zip)
+[Download codes here.](https://github.com/willingjiang/willingjiang.github.io/blob/25283de9192c8cb3010ec362fb4ab8fb85ac7847/files/GFDM_three_examples_v1_publishCode.zip)
 
 * Senwei Liang, Shixiao W. Jiang, John Harlim, and Haizhao Yang, <br>
 Solving PDEs On Unknown Manifolds With Machine Learning, <br>
