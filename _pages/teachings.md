@@ -11,7 +11,7 @@ author_profile: true
 
 * Stochastic Processes (Instructor, Spring 2022) ShanghaiTech University
   * Content: conditional expectation, Markov Chains, Poisson Process,  continuous-time Markov Chains, Markov Chain Monte Carlo, Brownian motion, etc.
-  * [Download paper here.](http://willingjiang.github.io/files/Harlim_Jiang_Peoples_2023_JMLR.pdf)
+  * [Download paper here.](http://willingjiang.github.io/files/Stochastic_Chap_All.pdf)
 [Find my lecture note here.] (http://willingjiang.github.io/files/Stochastic_Chap_All.pdf)
 * Partial Differential Equations I (Instructor, Fall 2021) ShanghaiTech University
   * Motivation: Many natural phenomena have been successfully formulated as partial differential equations: common applications include Physics, Chemistry, Biology, Economics and population dynamics. 
