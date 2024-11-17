@@ -45,7 +45,7 @@ Shanghai 201210 China
   &ensp; Courant Institute of Mathematical Sciences, 
 <br> &ensp; New York University, USA.  <br> 
 - <b>Visiting Scholar in Applied Mathematics</b> (2013.07-2013.09) <br> 
-<br> &ensp; New York University Abu Dhabi, UAE.  <br> 
+ &ensp; New York University Abu Dhabi, UAE.  <br> 
 - <b>Ph.D. in Applied Mathematics</b> (2017.06) <br> 
   &ensp; School of Mathematical Sciences and Institute of Natural Sciences, <br> &ensp; Shanghai Jiao Tong University, China.  <br> 
   &ensp; <b>Advisors: David Cai and Douglas Zhou.</b> <br>
