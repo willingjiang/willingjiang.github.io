@@ -9,11 +9,14 @@ author_profile: true
 
 ## Preprints
 
-* Senwei Liang, Shixiao W. Jiang, John Harlim, and Haizhao Yang, <br>
-Solving PDEs On Unknown Manifolds With Machine Learning, <br>
-[arxiv.](https://arxiv.org/abs/2106.06682) 
+
 
 ## Journal Publications
+
+* Senwei Liang, Shixiao W. Jiang, John Harlim, and Haizhao Yang, <br>
+Solving PDEs On Unknown Manifolds With Machine Learning, <br>
+[Applied and Computational Harmonic Analysis (2024).](https://www.sciencedirect.com/science/article/pii/S1063520324000290) &ensp;
+[arxiv.](https://arxiv.org/abs/2106.06682) 
 
 * Shixiao W. Jiang, Rongji Li, Qile Yan, John Harlim, <br>
 Generalized Finite Difference Method on unknown manifolds, <br>
