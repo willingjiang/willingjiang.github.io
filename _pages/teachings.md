@@ -18,6 +18,7 @@ author_profile: true
     * [Chap_4_Statistics_and_Their_Distributions](http://willingjiang.github.io/files/Prob_Stat_2_Chap4.pdf)  
     * [Chap_5_Hypothesis_Test](http://willingjiang.github.io/files/Prob_Stat_2_Chap5.pdf)  
     * [Chap_6_Least_Squares_Problems](http://willingjiang.github.io/files/Prob_Stat_2_Chap6.pdf)  
+    * Thanks for my graduate student Rongji Li to type in part of my lecture note in Latex.  
 
 * Stochastic Processes (Instructor, Spring 2022) ShanghaiTech University
   * Content: conditional expectation, Markov Chains, Poisson Process,  continuous-time Markov Chains, Markov Chain Monte Carlo, Brownian motion, etc.
