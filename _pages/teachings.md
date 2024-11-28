@@ -11,12 +11,17 @@ author_profile: true
 
 * Probability Theory and Mathematical Statistics (Instructor, Fall 2024) ShanghaiTech University
   * Content: Characteristic functions, Central Limit Theorem, Law of Large Numbers, Hypothesis Test, Least Squares Problems, etc.
-  * [Download my lecture note here.](http://willingjiang.github.io/files/Stochastic_Chap_All.pdf)
+  * Download my lecture note here.
+    * [Chap_1_Introduction](http://willingjiang.github.io/files/Prob_Stat_2_Chap1.pdf)  
+    * [Chap_2_Characteristic_Function](http://willingjiang.github.io/files/Prob_Stat_2_Chap2.pdf)  
+    * [Chap_3_Limit_Theorem](http://willingjiang.github.io/files/Prob_Stat_2_Chap3.pdf)  
+    * [Chap_4_Statistics_and_Their_Distributions](http://willingjiang.github.io/files/Prob_Stat_2_Chap4.pdf)  
+    * [Chap_5_Hypothesis_Test](http://willingjiang.github.io/files/Prob_Stat_2_Chap5.pdf)  
+    * [Chap_6_Least_Squares_Problems](http://willingjiang.github.io/files/Prob_Stat_2_Chap6.pdf)  
 
 * Stochastic Processes (Instructor, Spring 2022) ShanghaiTech University
   * Content: conditional expectation, Markov Chains, Poisson Process,  continuous-time Markov Chains, Markov Chain Monte Carlo, Brownian motion, etc.
-  * Download my lecture note here.
-    * [Chap_1_Introduction](http://willingjiang.github.io/files/Prob_Stat_2_Chap1.pdf)
+  * [Download my lecture note here.](http://willingjiang.github.io/files/Stochastic_Chap_All.pdf)
 
 * Partial Differential Equations I (Instructor, Fall 2021) ShanghaiTech University
   * Motivation: Many natural phenomena have been successfully formulated as partial differential equations: common applications include Physics, Chemistry, Biology, Economics and population dynamics. 
