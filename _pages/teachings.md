@@ -9,9 +9,14 @@ author_profile: true
 
 ## Courses
 
+* Probability Theory and Mathematical Statistics (Instructor, Fall 2024) ShanghaiTech University
+  * Content: Characteristic functions, Central Limit Theorem, Law of Large Numbers, Hypothesis Test, Least Squares Problems, etc.
+  * [Download my lecture note here.](http://willingjiang.github.io/files/Stochastic_Chap_All.pdf)
+
 * Stochastic Processes (Instructor, Spring 2022) ShanghaiTech University
   * Content: conditional expectation, Markov Chains, Poisson Process,  continuous-time Markov Chains, Markov Chain Monte Carlo, Brownian motion, etc.
-  * [Download my lecture note here.](http://willingjiang.github.io/files/Stochastic_Chap_All.pdf)
+  * Download my lecture note here.
+    * [Chap_1_Introduction](http://willingjiang.github.io/files/Prob_Stat_2_Chap1.pdf)
 
 * Partial Differential Equations I (Instructor, Fall 2021) ShanghaiTech University
   * Motivation: Many natural phenomena have been successfully formulated as partial differential equations: common applications include Physics, Chemistry, Biology, Economics and population dynamics. 
