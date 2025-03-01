@@ -9,6 +9,13 @@ author_profile: true
 
 ## Courses
 
+* Convex Optimization (Instructor, Spring 2025) ShanghaiTech University
+  * Content: Convex Sets, Convex Functions, Convex Optimization Problems, Duality, Approximation and Fitting, Statistical Estimation, Unconstrained Minimization, Equality Constrained Minimization, Interior-Point Methods, etc.
+  * Coding using CVXPY (Python) and CVX (Matlab) are suggested. 
+  * Download my slides here.
+    * [Chap_1_Introduction](http://willingjiang.github.io/files/Convex_Chapter01_Jiang1_pub.pdf)  
+    * [Chap_1_Introduction](http://willingjiang.github.io/files/1_PDE_code_torus.zip)  
+
 * Probability Theory and Mathematical Statistics (Instructor, Fall 2024) ShanghaiTech University
   * Content: Characteristic functions, Central Limit Theorem, Law of Large Numbers, Hypothesis Test, Least Squares Problems, etc.
   * Download my lecture note here.
