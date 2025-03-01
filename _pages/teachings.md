@@ -12,7 +12,7 @@ author_profile: true
 * Convex Optimization (Instructor, Spring 2025) ShanghaiTech University
   * Content: Convex Sets, Convex Functions, Convex Optimization Problems, Duality, Approximation and Fitting, Statistical Estimation, Unconstrained Minimization, Equality Constrained Minimization, Interior-Point Methods, etc.
   * Coding using CVXPY (Python) and CVX (Matlab) are suggested. 
-  * Download my slides here. 
+  * Download my slides here.  
     * [Chap_1_Introduction](http://willingjiang.github.io/files/Convex_Chapter01_Jiang1_pub.pdf)   
     * [Chap_2_Convex_Sets](http://willingjiang.github.io/files/Convex_Chapter02_Jiang1.pdf)   
     * [Chap_3_Convex_Functions](http://willingjiang.github.io/files/Convex_Chapter03_Jiang1.pdf)
