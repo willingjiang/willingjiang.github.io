@@ -14,7 +14,10 @@ author_profile: true
   * Coding using CVXPY (Python) and CVX (Matlab) are suggested. 
   * Download my slides here. 
     * [Chap_1_Introduction](http://willingjiang.github.io/files/Convex_Chapter01_Jiang1_pub.pdf)   
-    * [Chap_1_Introduction](http://willingjiang.github.io/files/1_PDE_code_torus.zip)   
+    * [Chap_2_Convex_Sets](http://willingjiang.github.io/files/Convex_Chapter02_Jiang1.pdf)   
+    * [Chap_3_Convex_Functions](http://willingjiang.github.io/files/Convex_Chapter03_Jiang1.pdf)
+    * [Chap_4_Convex_Optimization_Problems](http://willingjiang.github.io/files/Convex_Chapter04_Jiang1.pdf)
+    * [Chap_5_Duality](http://willingjiang.github.io/files/Convex_Chapter05_Jiang1.pdf)
 
 * Probability Theory and Mathematical Statistics (Instructor, Fall 2024) ShanghaiTech University
   * Content: Characteristic functions, Central Limit Theorem, Law of Large Numbers, Hypothesis Test, Least Squares Problems, etc.
