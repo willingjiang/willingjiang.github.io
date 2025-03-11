@@ -18,6 +18,7 @@ author_profile: true
     * [Chap_3_Convex_Functions](http://willingjiang.github.io/files/Convex_Chapter03_Jiang1.pdf)
     * [Chap_4_Convex_Optimization_Problems](http://willingjiang.github.io/files/Convex_Chapter04_Jiang1.pdf)
     * [Chap_5_Duality](http://willingjiang.github.io/files/Convex_Chapter05_Jiang1.pdf)
+    * Thanks for Prof. Ziyu Zhang for providing the original lecture notes and all above are under minor revision.  
 
 * Probability Theory and Mathematical Statistics (Instructor, Fall 2024) ShanghaiTech University
   * Content: Characteristic functions, Central Limit Theorem, Law of Large Numbers, Hypothesis Test, Least Squares Problems, etc.
