@@ -13,12 +13,22 @@ author_profile: true
   * Content: Convex Sets, Convex Functions, Convex Optimization Problems, Duality, Approximation and Fitting, Statistical Estimation, Unconstrained Minimization, Equality Constrained Minimization, Interior-Point Methods, etc.
   * Coding using CVXPY (Python) and CVX (Matlab) are suggested. 
   * Download my slides here.  
+    * [Chap_Appendix_A_Notations_and_Linear_Algebra](http://willingjiang.github.io/files/Convex_AppendixA.pdf)   
     * [Chap_1_Introduction](http://willingjiang.github.io/files/Convex_Chapter01_Jiang1_pub.pdf)   
     * [Chap_2_Convex_Sets](http://willingjiang.github.io/files/Convex_Chapter02_Jiang1.pdf)   
     * [Chap_3_Convex_Functions](http://willingjiang.github.io/files/Convex_Chapter03_Jiang1.pdf)
     * [Chap_4_Convex_Optimization_Problems](http://willingjiang.github.io/files/Convex_Chapter04_Jiang1.pdf)
     * [Chap_5_Duality](http://willingjiang.github.io/files/Convex_Chapter05_Jiang1.pdf)
-    * Thanks for Prof. Ziyu Zhang for providing the original lecture notes and all above are under minor revision.  
+    * [Chap_6_Approximation_and_Fitting](http://willingjiang.github.io/files/Convex_Chapter06_Jiang1.pdf)   
+    * [Chap_7_Statistical_Estimationg](http://willingjiang.github.io/files/Convex_Chapter07_Jiang1.pdf)   
+    * [Chap_8_Geometric_Problems](http://willingjiang.github.io/files/Convex_Chapter08_Jiang1.pdf)   
+    * [Chap_Appendix_C_Numerical_Linear_Algebra](http://willingjiang.github.io/files/Convex_AppendixC_Jiang1.pdf)   
+    * [Chap_9_Unconstrained_Minimization](http://willingjiang.github.io/files/Convex_Chapter09_Jiang1.pdf)   
+    * [Chap_10_Equality_Constrained_Minimization](http://willingjiang.github.io/files/Convex_Chapter10_Jiang1.pdf)   
+    * [Chap_11_Interior-point_Methods](http://willingjiang.github.io/files/Convex_Chapter11_Jiang1.pdf)   
+    * [Chap_12_Supplementary_Material](http://willingjiang.github.io/files/Convex_Chapter12_Jiang1.pdf)   
+    * [Chap_Epilogue_Summary](http://willingjiang.github.io/files/Convex_epilogue_Jiang1.pdf) 
+    * Thanks for Prof. Ziyu Zhang for providing the original lecture notes and most above are under minor revision.  
 
 * Probability Theory and Mathematical Statistics (Instructor, Fall 2024) ShanghaiTech University
   * Content: Characteristic functions, Central Limit Theorem, Law of Large Numbers, Hypothesis Test, Least Squares Problems, etc.
