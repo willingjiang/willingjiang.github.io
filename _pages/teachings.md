@@ -26,7 +26,7 @@ author_profile: true
     * [Chap_9_Unconstrained_Minimization](http://willingjiang.github.io/files/Convex_Chapter09_Jiang1.pdf)   
     * [Chap_10_Equality_Constrained_Minimization](http://willingjiang.github.io/files/Convex_Chapter10_Jiang1.pdf)   
     * [Chap_11_Interior-point_Methods](http://willingjiang.github.io/files/Convex_Chapter11_Jiang1.pdf)   
-    * [Chap_12_Supplementary_Material](http://willingjiang.github.io/files/Convex_Chapter12_Jiang1.pdf)   
+    * [Chap_12_Beyond_the_Textbook](http://willingjiang.github.io/files/Convex_Chapter12_Jiang1.pdf)   
     * [Chap_Epilogue_Summary](http://willingjiang.github.io/files/Convex_epilogue_Jiang1.pdf) 
     * Thanks for Prof. Ziyu Zhang for providing the original lecture notes and most above are under minor revision.  
 
