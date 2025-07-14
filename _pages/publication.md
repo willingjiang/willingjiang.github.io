@@ -9,9 +9,15 @@ author_profile: true
 
 ## Preprints
 
-
+* Rongji Li, Qile Yan, Shixiao W. Jiang, <br>
+Generalized Moving Least-Squares Methods for Solving Vector-valued PDEs on Unknown Manifolds, <br>
+[arxiv.](https://arxiv.org/abs/2406.12210)
 
 ## Journal Publications
+
+* Yi Zeng, Shixiao W. Jiang, Hui Zhu, Jinwei Li, Jianfeng Li, Fei Li, Shukuan Lu, Xiran Cai, <br>
+High-Quality Passive Acoustic Mapping with the Cross-Correlated Angular Spectrum Method, <br>
+[IEEE Transactions on Ultrasonics, Ferroelectrics, and Frequency Control (2025).](https://ieeexplore.ieee.org/document/11072264/authors#authors)
 
 * Senwei Liang, Shixiao W. Jiang, John Harlim, and Haizhao Yang, <br>
 Solving PDEs On Unknown Manifolds With Machine Learning, <br>
