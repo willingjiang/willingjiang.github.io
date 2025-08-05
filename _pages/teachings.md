@@ -42,8 +42,15 @@ author_profile: true
     * Thanks for my graduate student Rongji Li to type in part of my lecture note in Latex.  
 
 * Stochastic Processes (Instructor, Spring 2022) ShanghaiTech University
-  * Content: conditional expectation, Markov Chains, Poisson Process,  continuous-time Markov Chains, Markov Chain Monte Carlo, Brownian motion, etc.
+  * Content: conditional expectation, Markov Chains, Poisson Process,  continuous-time Markov Chains, Markov Chain Monte Carlo, Brownian motion, stochastic differential equations, Gaussian processes, introduction to time series, etc.
+  * Motivation: based on the knowledge of stochastic processes, algorithms learnt from the course and ability of mathematical modeling, students are expected to apply them in statistical learning, data analysis, machine learning, economic engineering, etc. 
   * [Download my lecture note here.](http://willingjiang.github.io/files/Stochastic_Chap_All.pdf)
+  * Coding work using Python and Matlab are suggested.
+  * Students are expected to accomplish a project which can be any topic in team work. See previous examples as follows:
+    * [project_1_physics_Ising_model](http://willingjiang.github.io/files/group1_Phys_ZhangXuanling_ZhaoYanzhi_ZhaiYizhou.pdf)
+    * [project_2_math_diffusion_model](http://willingjiang.github.io/files/group2_Math_WangWennan_DingLecong_GuanJingrong.pdf)
+    * [project_3_cs_diffusion_model](http://willingjiang.github.io/files/group3_CS_WangBangjie.pdf)
+    * [project_4_cs_sentiment_analysis ](http://willingjiang.github.io/files/group4_CS_XueWenhao_LiuZihan_WangJunjie.pdf)
 
 * Partial Differential Equations I (Instructor, Fall 2021) ShanghaiTech University
   * Motivation: Many natural phenomena have been successfully formulated as partial differential equations: common applications include Physics, Chemistry, Biology, Economics and population dynamics. 
