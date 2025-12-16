@@ -22,8 +22,7 @@ Generalized Moving Least-Squares Methods for Solving Vector-valued PDEs on Unkno
 
 * Yifei Li, Hui Zhu, Yi Zeng, Shixiao W. Jiang, Xiran Cai, <br>
 Real-time Heterogeneous Helical Wave Spectrum Method for Trans-abdominal Passive Acoustic Mapping, <br>
-[IEEE Transactions on Ultrasonics, Ferroelectrics, and Frequency Control (2025).]
-(https://ieeexplore.ieee.org/document/11240230)
+[IEEE Transactions on Ultrasonics, Ferroelectrics, and Frequency Control (2025).](https://ieeexplore.ieee.org/document/11240230)
 
 * Yi Zeng, Shixiao W. Jiang, Hui Zhu, Jinwei Li, Jianfeng Li, Fei Li, Shukuan Lu, Xiran Cai, <br>
 High-Quality Passive Acoustic Mapping with the Cross-Correlated Angular Spectrum Method, <br>
