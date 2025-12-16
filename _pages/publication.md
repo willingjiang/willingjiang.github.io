@@ -11,7 +11,8 @@ author_profile: true
 
 * Rongji Li, Haichuan Di, Shixiao W. Jiang, <br>
 Two-step Generalized RBF-Generated Finite Difference Method on Manifolds, <br>
-[arxiv(2025).](https://arxiv.org/abs/2511.18049) 
+[arxiv(2025).](https://arxiv.org/abs/2511.18049) &ensp;
+[Download codes here.](http://willingjiang.github.io/files/gRBFFD_code_published.zip)
 
 ## Journal Publications
 
