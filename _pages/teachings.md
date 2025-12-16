@@ -9,6 +9,13 @@ author_profile: true
 
 ## Courses
 
+* Numerical Solutions to Partial Differential Equations (Instructor, Fall 2025) ShanghaiTech University
+  * Content: Introduction to PDEs, Finite Difference Methods, Hyperbolic Equations, Conservation Laws, Lax Equivalence Theorem, WENO, Parobolic Equations, Elliptic Problems, Finite Element Methods, Sobolev Spaces, Lax-Milgram Theorem, Priori and Posterior Estimates, etc.
+  * References
+    * The Mathematical Theory of Finite Element Methods, Brenner, Susanne C. and  Scott, L. Ridgway
+    * Numerical Solution of Partial Differential Equations, K. W. Morton and D. F. Mayers 
+    * Numerical Methods for Conservation Laws, R.J. LeVeque
+
 * Convex Optimization (Instructor, Spring 2025) ShanghaiTech University
   * Content: Convex Sets, Convex Functions, Convex Optimization Problems, Duality, Approximation and Fitting, Statistical Estimation, Unconstrained Minimization, Equality Constrained Minimization, Interior-Point Methods, etc.
   * Coding using CVXPY (Python) and CVX (Matlab) are suggested. 
