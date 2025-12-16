@@ -9,11 +9,21 @@ author_profile: true
 
 ## Preprints
 
-* Rongji Li, Qile Yan, Shixiao W. Jiang, <br>
-Generalized Moving Least-Squares Methods for Solving Vector-valued PDEs on Unknown Manifolds, <br>
-[arxiv.](https://arxiv.org/abs/2406.12210)
+* Rongji Li, Haichuan Di, Shixiao W. Jiang, <br>
+Two-step Generalized RBF-Generated Finite Difference Method on Manifolds, <br>
+[arxiv(2025).](https://arxiv.org/abs/2511.18049) 
 
 ## Journal Publications
+
+* Rongji Li, Qile Yan, Shixiao W. Jiang, <br>
+Generalized Moving Least-Squares Methods for Solving Vector-valued PDEs on Unknown Manifolds, <br>
+[accepted by SISC.] &ensp;
+[arxiv.](https://arxiv.org/abs/2406.12210)
+
+* Yifei Li, Hui Zhu, Yi Zeng, Shixiao W. Jiang, Xiran Cai, <br>
+Real-time Heterogeneous Helical Wave Spectrum Method for Trans-abdominal Passive Acoustic Mapping, <br>
+[IEEE Transactions on Ultrasonics, Ferroelectrics, and Frequency Control (2025).]
+(https://ieeexplore.ieee.org/document/11240230)
 
 * Yi Zeng, Shixiao W. Jiang, Hui Zhu, Jinwei Li, Jianfeng Li, Fei Li, Shukuan Lu, Xiran Cai, <br>
 High-Quality Passive Acoustic Mapping with the Cross-Correlated Angular Spectrum Method, <br>
